@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  VC_2008_USB-1808_Continuous.cpp
+e:\usb_ping_dontdelete\cbw.h(531): warning C4005: 'HIGH_LEVEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\kernelspecs.h(55): note: see previous definition of 'HIGH_LEVEL'
+e:\usb_ping_dontdelete\vc_2008_usb-1808_continuous.cpp(88): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: see declaration of 'getenv'
+e:\usb_ping_dontdelete\vc_2008_usb-1808_continuous.cpp(131): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: see declaration of 'getenv'
+e:\usb_ping_dontdelete\vc_2008_usb-1808_continuous.cpp(189): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: see declaration of 'getenv'
+e:\usb_ping_dontdelete\vc_2008_usb-1808_continuous.cpp(212): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: see declaration of 'getenv'
+e:\usb_ping_dontdelete\vc_2008_usb-1808_continuous.cpp(236): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: see declaration of 'getenv'
+e:\usb_ping_dontdelete\vc_2008_usb-1808_continuous.cpp(289): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: see declaration of 'getenv'
+e:\usb_ping_dontdelete\vc_2008_usb-1808_continuous.cpp(322): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\usb_ping_dontdelete\vc_2008_usb-1808_continuous.cpp(329): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating code
+  All 263 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VC_2008_USB-1808_Continuous.vcxproj -> E:\USB_Ping_DontDelete\Release\VC_2008_USB-1808_Continuous.exe
